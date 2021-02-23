@@ -1,6 +1,6 @@
-### Welcome! Nice to have you here 🙋🏻‍♂️, 
+### Welcome! I'm Wojtek, 
 
-⚡ I'm open for my 1st junior front-end job!
+⚡ I'm looking for my 1st full-time job as junior front-end/web developer!
 
 🌱 Skills I want to aquire in near future
 * Firebase
