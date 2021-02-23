@@ -35,10 +35,15 @@
 <br>
 <details>
 <summary>My Github Stats</summary>
+  
+  #
 
 [![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,prs&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&theme=react)
+
 ![wblachut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wblachut&hide_border=true&theme=react)
+
 <br>
 
 #
