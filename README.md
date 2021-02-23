@@ -1,6 +1,6 @@
-### Welcome! I'm Wojtek, 
+### Hello there 🙏🏻 !
 
-⚡ I'm looking for my 1st full-time job as junior front-end/web developer!
+⚡ I'm looking for my first full-time job as junior front-end/web developer!
 
 🌱 Skills I want to aquire in near future
 * Firebase
@@ -10,7 +10,9 @@
 🔭 I’m currently working on ...
 * The Odin Project - BaaS Project (Firebase) 
 
-😄 Pronouns: Enthusiastic, reliable, open-minded, social, helpfull, creative 👨🏼‍🚀
+😄 About me: Enthusiastic, reliable, open-minded, social, helpfull, creative ⛷️⛵⛰🛹
+
+[![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut)](https://github.com/wblachut/github-readme-stats)
 
 
 <!--
