@@ -1,16 +1,16 @@
-### Welcome! Nice to have you here 🏼🙋🏻‍♂️, 
+### Welcome! Nice to have you here 🙋🏻‍♂️, 
 
- ⚡ I'm open for my 1st junior front-end job!
+⚡ I'm open for my 1st junior front-end job!
 
-- 🌱 Skills I want to aquire in near future
+🌱 Skills I want to aquire in near future
 * Firebase
 * SASS
 * React Redux
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 * The Odin Project - BaaS Project (Firebase) 
 
-- 😄 Pronouns: Enthusiastic, reliable, open-minded, social, helpfull, creative 👨🏼‍🚀
+😄 Pronouns: Enthusiastic, reliable, open-minded, social, helpfull, creative 👨🏼‍🚀
 
 
 <!--
