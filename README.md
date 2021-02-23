@@ -1,4 +1,4 @@
-## Hello there! I am Wojtek, self-tought [web developer](https://wblachut.github.io/portfolio/)
+## Hello there! I am Wojtek, self-taught [web developer](https://wblachut.github.io/portfolio/)
 
 
 ⚡ Currently looking for my first full-time job as junior front-end/web developer.
@@ -40,9 +40,10 @@
 
 [![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,prs&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&hide_border=true&theme=react)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
-![wblachut's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wblachut&hide_border=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wblachut&hide=html&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
 <br>
 
