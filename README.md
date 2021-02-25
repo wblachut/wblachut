@@ -1,18 +1,21 @@
-## Hello there! I am Wojtek, self-taught [web developer](https://wblachut.github.io/portfolio/)
-
+<h2 align="center">Hello there 👋 I'm Wojtek</h2>
+<h4 align="center">Self-taught <a href="https://wblachut.github.io/portfolio/">web developer </a></h4>
+<hr>
 
 ⚡ Currently looking for my first full-time job as junior front-end/web developer.
-
-
+<br>
 #### Lately, I’m working on ...
-* The Odin Project - BaaS Project (Firebase) 
+
+- The Odin Project - BaaS Project (Firebase)
 #
 
 #### Technologies I want to learn in near future:
+
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br>
 
 #
@@ -27,17 +30,19 @@
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
 <img align="left" alt="Prettier" width="26px" src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-clean-centred.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
+<img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+<img align="right" alt="CorelDRAW" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqPmLQSgmtO5GLAXKn5WrrcjtGf-meuidg&usqp=CAU" />
+<img align="right" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+<img align="right" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="right" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" />
+<img align="right" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br>
-
 
 #
 
-<br>
 <details>
-<summary>My Github Stats</summary>
+<summary>‍🐱‍👤 My Github Stats</summary>
   
   #
 
@@ -45,16 +50,16 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wblachut&hide=html&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
 <br>
 
 #
+
 </details>
 <br>
 <details>
-<summary>Get social!</summary>
+<summary>👨🏻‍🚀 Get Social !</summary>
 <p>
   
 ### Connect with me:        
@@ -67,22 +72,26 @@
 
 ### Characteristics:
 
-  Enthusiastic, reliable, open-minded, social, helpfull, creative
+Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, optimistic, getting things done!
+
 #
-  
+
 ### Hobbies:
 
- ⛷️⛵⛰🛹
- 
- #
- 
-<!--
-[![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,prs&hide_border=true&title_color=85D44A&text_color=2CB17D&bg_color=0,440154,345E8D&icon_color=DFE318)](https://github.com/wblachut/github-readme-stats) 
+⛷️  Freeride skiing
+⛵  Sailing
+⛰. Hiking
+🛹  Longboarding
+🌋  Geothermics
+⚽  Football
+🐉  Fantasy books
+🎮  Video games
+
+<!-- [![Spotify](https://wblachut.vercel.app/api/spotify)](https://open.spotify.com/user/jdii6xk5nbxl3befcvaxpy8jj
+)
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="wblachut Spotify Playing" width="350" />](https://open.spotify.com/user/jdii6xk5nbxl3befcvaxpy8jj)
--->
+ [<img src="https://https://wb-spot-play-git-master-wblachut.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/jdii6xk5nbxl3befcvaxpy8jj) -->
 
   <br />
 </p>
 </details>
-
