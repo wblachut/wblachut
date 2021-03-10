@@ -6,16 +6,17 @@
 <br>
 #### Lately, I’m working on ...
 
-- The Odin Project - BaaS Project (Firebase)
+- [The Odin Project - A PHOTO TAGGING APP](https://www.theodinproject.com/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
 #
 
-#### Technologies I want to learn in near future:
+#### Technologies I want to learn next:
 
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <br>
 
 #
@@ -31,6 +32,8 @@
 <img align="left" alt="Eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
 <img align="left" alt="Prettier" width="26px" src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-clean-centred.png" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="right" alt="CorelDRAW" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqPmLQSgmtO5GLAXKn5WrrcjtGf-meuidg&usqp=CAU" />
 <img align="right" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="right" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
@@ -72,7 +75,7 @@
 
 ### Characteristics:
 
-Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, optimistic, getting things done!
+Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, optimistic, proactive, getting things done!
 
 #
 
