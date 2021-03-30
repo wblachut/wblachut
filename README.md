@@ -4,20 +4,24 @@
 
 ⚡ Currently looking for my first full-time job as junior front-end/web developer.
 <br>
-#### Lately, I’m working on ...
+#### Lately, I’m working on...
 
 - [The Odin Project - A PHOTO TAGGING APP](https://www.theodinproject.com/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
-- A simple copy of [Clicker App](http://orteil.dashnet.org/cookieclicker/)
+- Sudoku App (TypeScript)
+
+
+#### Recently finished:
+- A [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
 #
 
 #### Technologies I want to learn next:
 
 
-<img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Deno" width="26px" src="https://deno.land/logo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <br>
 
 #
@@ -35,6 +39,9 @@
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="npm" width="26px" src="https://s2.svgbox.net/files.svg?ic=npm" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 <img align="right" alt="CorelDRAW" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqPmLQSgmtO5GLAXKn5WrrcjtGf-meuidg&usqp=CAU" />
 <img align="right" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="right" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
