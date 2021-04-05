@@ -1,5 +1,6 @@
-<h2 align="center">Hello there 👋 I'm Wojtek</h2>
+<h2 align="center">Hello there  I'm <a href="https://www.facebook.com/buahoot/">Wojtek </a></h2>
 <h4 align="center">Self-taught <a href="https://wblachut.github.io/portfolio/">web developer </a></h4>
+
 <hr style="background-color: #58A6FF;">
 
 ⚡ Currently looking for my first full-time job as junior front-end/web developer.
