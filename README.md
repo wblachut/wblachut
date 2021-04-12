@@ -57,7 +57,7 @@
   
   #
 
-[![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,prs&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
+[![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,issues&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
 
