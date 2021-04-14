@@ -7,7 +7,7 @@
 #### Lately, I’m working on...
 
 - [The Odin Project - A PHOTO TAGGING APP](https://www.theodinproject.com/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
-- Sudoku App (TypeScript)
+- [Sudoku App](https://github.com/wblachut/sudoku-app) (TypeScript) - [demo](https://wblachut.github.io/sudoku-app/)
 
 
 #### Recently finished:
