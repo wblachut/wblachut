@@ -1,27 +1,35 @@
-<h2 align="center">Hello there  I'm <a href="https://www.facebook.com/buahoot/">Wojtek </a></h2>
-<h4 align="center">Self-taught <a href="https://wblachut.github.io/portfolio/">web developer </a></h4>
+<h3 align="center"> 
+              Hello there!  I'm <a color="#22282D" href="https://www.facebook.com/buahoot/">Wojtek </a>    
+  <img alt="Grogu" width="28px" src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" />
+</h3>
+
+<h4 align="center">
+  beginner <a href="https://wblachut.github.io/portfolio/"> web developer </a> at  </h4>
+<p align="center"><img align="center" alt="Codibly" width="200px" src="https://codibly.com/wp-content/uploads/2020/09/logo_cdbly.svg" />
+</p>
 <hr style="background-color: #58A6FF;">
 
-⚡ Currently looking for my first full-time job as junior front-end/web developer.
+
 <br>
-#### Lately, I’m working on...
 
-- [The Odin Project - A PHOTO TAGGING APP](https://www.theodinproject.com/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
-- [Sudoku App](https://github.com/wblachut/sudoku-app) (TypeScript) - [demo](https://wblachut.github.io/sudoku-app/)
+#### 🧑🏻‍💻  Currently, working on:
 
+- ♻️  IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux)
 
-#### Recently finished:
-- A [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
+#### 👨🏻‍🎨  My latest personal projects:
+- 🌳 [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
+- 9️⃣ [Sudoku App](https://github.com/wblachut/sudoku-app) (first TypeScript repo) - [demo](https://wblachut.github.io/sudoku-app/)
 #
+
 
 #### Technologies I want to learn next:
 
 
 
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Nest" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
 <img align="left" alt="Deno" width="26px" src="https://deno.land/logo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br>
 
 #
