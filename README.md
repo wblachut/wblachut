@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-  beginner <a href="https://wblachut.github.io/portfolio/"> web developer </a> at  </h4>
+  junior <a href="https://wblachut.github.io/portfolio/"> web developer </a> at  </h4>
 <p align="center"><img align="center" alt="Codibly" width="200px" src="https://codibly.com/wp-content/uploads/2020/09/logo_cdbly.svg" />
 </p>
 <hr style="background-color: #58A6FF;">
