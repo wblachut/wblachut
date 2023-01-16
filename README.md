@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-  junior <a href="https://wblachut.github.io/portfolio/"> web developer </a> at  </h4>
+  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> at  </h4>
 <p align="center"><img align="center" alt="Codibly" width="200px" src="https://codibly.com/wp-content/uploads/2020/09/logo_cdbly.svg" />
 </p>
 <hr style="background-color: #58A6FF;">
@@ -16,7 +16,7 @@
 
 - ♻️  IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux)
 
-#### 👨🏻‍🎨  My latest personal projects:
+#### 👨🏻‍🎨  Latest personal projects:
 - 🌳 [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
 - 9️⃣ [Sudoku App](https://github.com/wblachut/sudoku-app) (first TypeScript repo) - [demo](https://wblachut.github.io/sudoku-app/)
 #
@@ -83,7 +83,7 @@
   
 ### Connect with me:        
 [<img align="left" alt="wb | Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/buahoot/)
-[<img align="left" alt="wb | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wblachut-webdev/)
+[<img align="left" alt="wb | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wblachut/)
 [<img align="left" alt="wb | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/buahoot/)
 <br>
 
@@ -98,6 +98,7 @@ Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, 
 ### Hobbies:
 
 ⛷️  Freeride skiing
+🌲  Outdoor and Nature
 ⛵  Sailing
 ⛰. Hiking
 🛹  Longboarding
