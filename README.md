@@ -22,23 +22,22 @@
 #
 
 
-#### Technologies I want to learn next:
+#### Technologies I want to improve or learn:
 
-
-
-<img align="left" alt="Nest" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
-<img align="left" alt="Deno" width="26px" src="https://deno.land/logo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Nest" width="26px" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Deno" width="26px" src="https://deno.land/logo.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br>
 
 #
 
 #### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Jet Brains - WebStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
@@ -49,36 +48,22 @@
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="right" alt="CorelDRAW" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqPmLQSgmtO5GLAXKn5WrrcjtGf-meuidg&usqp=CAU" />
 <img align="right" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="right" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="right" alt="Matlab" width="26px" src="https://s2.svgbox.net/files.svg?ic=matlab" />
-<img align="right" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br>
 
-#
-
-<details>
-<summary>‍🐱‍👤 My Github Stats</summary>
-  
-  #
-
-[![wblachut's GitHub stats](https://github-readme-stats.vercel.app/api?username=wblachut&show_icons=true&hide=contribs,issues&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wblachut&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wblachut&hide=html&hide_border=true&theme=react)](https://github.com/wblachut/github-readme-stats)
-
-<br>
 
 #
 
 </details>
 <br>
 <details>
-<summary>👨🏻‍🚀 Get Social !</summary>
+<summary>🐱‍👤 Get Social !</summary>
 <p>
   
 ### Connect with me:        
@@ -91,7 +76,7 @@
 
 ### Characteristics:
 
-Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, optimistic, proactive, getting things done!
+Enthusiastic, growth mindset, optimistic, proactive, reliable, open-minded, social, helpful, creative, getting things done!
 
 #
 
@@ -100,11 +85,13 @@ Enthusiastic, reliable, open-minded, social, helpful, creative, growth mindset, 
 ⛷️  Freeride skiing
 🌲  Outdoor and Nature
 ⛵  Sailing
-⛰. Hiking
+⛰   Hiking
 🛹  Longboarding
-🌋  Geothermics
+🎲  Board games
 ⚽  Football
+🦜  UX / UI
 🐉  Fantasy books
+🎨  Watercolor Painting
 🎮  Video games
 
 <!-- [![Spotify](https://wblachut.vercel.app/api/spotify)](https://open.spotify.com/user/jdii6xk5nbxl3befcvaxpy8jj
