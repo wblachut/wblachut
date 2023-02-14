@@ -1,25 +1,22 @@
 <h3 align="center"> 
-              Hello there!  I'm <a color="#22282D" href="https://www.facebook.com/buahoot/">Wojtek </a>    
-  <img alt="Grogu" width="28px" src="https://emojis.slackmojis.com/emojis/images/1621350945/39802/baby-yoda_hi.gif?1621350945" />
+  Hello there!  I'm
+  <a color="#22282D" href="https://www.facebook.com/buahoot/">
+    Wojtek
+  </a>    
+  <img alt="Grogu" width="58px"  margin="-40px 10px 0px 0px" src="https://www.icegif.com/wp-content/uploads/icegif-1299.gif" />
 </h3>
 
 <h4 align="center">
-  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> at  </h4>
-<p align="center"><img align="center" alt="Codibly" width="200px" src="https://codibly.com/wp-content/uploads/2020/09/logo_cdbly.svg" />
-</p>
+  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> looking for new opportunities and challanges </h4>
 <hr style="background-color: #58A6FF;">
 
 
 <br>
 
-#### 🧑🏻‍💻  Currently, working on:
+#### 🧑🏻‍💻 My latest proffesional projects:
 
-- ♻️  IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux)
-
-#### 👨🏻‍🎨  Latest personal projects:
-- 🌳 [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
-- 9️⃣ [Sudoku App](https://github.com/wblachut/sudoku-app) (first TypeScript repo) - [demo](https://wblachut.github.io/sudoku-app/)
-#
+- ♻️ IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux)
+- ⛈ Weather Insurance Application for Brokers and Underwritters (Typescript, React, Cypress, MaterialUI, Redux)
 
 
 #### Technologies I want to improve or learn:
@@ -66,6 +63,7 @@
 <summary>🐱‍👤 Get Social !</summary>
 <p>
   
+  
 ### Connect with me:        
 [<img align="left" alt="wb | Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/buahoot/)
 [<img align="left" alt="wb | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wblachut/)
@@ -94,6 +92,13 @@ Enthusiastic, growth mindset, optimistic, proactive, reliable, open-minded, soci
 🎨  Watercolor Painting
 🎮  Video games
 
+  
+    
+#### 👨🏻‍🎨  Latest personal projects:
+- 🌳 [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
+- 9️⃣  [Sudoku App](https://github.com/wblachut/sudoku-app) (first TypeScript repo) - [demo](https://wblachut.github.io/sudoku-app/)
+#
+  
 <!-- [![Spotify](https://wblachut.vercel.app/api/spotify)](https://open.spotify.com/user/jdii6xk5nbxl3befcvaxpy8jj
 )
 ### Spotify Playing 🎧
