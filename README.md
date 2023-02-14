@@ -13,7 +13,7 @@
 
 <br>
 
-#### 🧑🏻‍💻 My latest proffesional projects:
+#### 📌 My latest proffesional projects:
 
 - ♻️ IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux)
 - ⛈ Weather Insurance Application for Brokers and Underwritters (Typescript, React, Cypress, MaterialUI, Redux)
