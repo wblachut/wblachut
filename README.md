@@ -1,17 +1,18 @@
-<h3 align="center"> 
+<h3> 
   Hello there!  I'm
   <a color="#22282D" href="https://www.facebook.com/buahoot/">
     Wojtek
   </a>    
-  <img alt="Grogu" width="58px"  margin="-40px 0px 0px 0px" src="https://www.icegif.com/wp-content/uploads/icegif-1299.gif" />
+  <img alt="Grogu" width="48px"  margin="-20px 0px 0px 0px" src="https://www.icegif.com/wp-content/uploads/icegif-1299.gif" />
 </h3>
 
-<h4 align="center">
-  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> looking for new challanges </h4>
-<hr style="background-color: #58A6FF;">
+<h4>
+  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> looking for new oportunities
+</h4>
+<!-- <hr style="background-color: #58A6FF;"> -->
 
 <details>
-<summary>More about me 🧐</summary>
+<summary>Read more... 🧐</summary>
 
 #### My latest professional projects:
 - [Fog of War Simulator](https://github.com/wblachut/fog-of-war) (Typescript, React, Vite, Canvas, Vitest)
