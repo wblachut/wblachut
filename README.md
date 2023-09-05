@@ -42,10 +42,8 @@
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/yarn.svg" />
 <img align="left" alt="yarn" width="26px" src="https://s2.svgbox.net/files.svg?ic=npm" />
-<img align="left" alt="postman" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/gatsby-1.png" />
-<img align="left" alt="Atlassian Tools" width="26px" src="https://companieslogo.com/img/orig/TEAM-ddb0dd07.png?t=1633504719" />
 <br>
 <br>
 
@@ -72,9 +70,11 @@
 
 #### Others:
 <img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />
+<img align="left" alt="postman" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+<img align="left" alt="Atlassian Tools" width="26px" src="https://companieslogo.com/img/orig/TEAM-ddb0dd07.png?t=1633504719" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="CorelDRAW" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqPmLQSgmtO5GLAXKn5WrrcjtGf-meuidg&usqp=CAU" />
 <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Matlab" width="26px" src="https://s2.svgbox.net/files.svg?ic=matlab" />
 <br>
 <br>
