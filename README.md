@@ -7,7 +7,7 @@
 </h3>
 
 <h4>
-  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> looking for new oportunities
+  <a href="https://wblachut.github.io/portfolio/"> Frontend Developer </a> / Web developer / Software Engineer
 </h4>
 <!-- <hr style="background-color: #58A6FF;"> -->
 
@@ -15,13 +15,13 @@
 <summary>Read more... 🧐</summary>
 
 #### My latest professional projects:
-- [Fog of War Simulator](https://github.com/wblachut/fog-of-war) (Typescript, React, Vite, Canvas, Vitest)
-- IoT Platform for Energy Industry (Typescript, React, ReactAdmin, MaterialUI, Redux, GCP, Keyclock, Docker)
+- IoT Platform for Energy Industry (Typescript, React, MaterialUI, Redux, Keyclock, Docker)
 - Weather Insurance Application for Brokers and Underwriters (Typescript, React, Cypress, MaterialUI, Redux)
+- Portfolio websites (Strapi, Next.js, Typescript, Tailwind)
 
     
 ####  Latest personal projects:
-- [Dynamic Landing Page](https://github.com/wblachut/dynamic-landing-page)
+- [Fog of War Simulator](https://github.com/wblachut/fog-of-war) (Typescript, React, Vite, Canvas, Vitest)
 - [Sudoku App](https://github.com/wblachut/sudoku-app)
 - [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
 
