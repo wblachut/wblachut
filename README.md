@@ -15,12 +15,13 @@
 <summary>Read more... 🧐</summary>
 
 #### My latest professional projects:
+- Energy Grid Solutions Applications ⚡♻
 - IoT Platform for Energy Industry (Typescript, React, MaterialUI, Redux, Keyclock, Docker)
 - Weather Insurance Application for Brokers and Underwriters (Typescript, React, Cypress, MaterialUI, Redux)
 - Portfolio websites (Strapi, Next.js, Typescript, Tailwind)
 
     
-####  Latest personal projects:
+#### My Latest personal projects:
 - [Fog of War Simulator](https://github.com/wblachut/fog-of-war) (Typescript, React, Vite, Canvas, Vitest)
 - [Sudoku App](https://github.com/wblachut/sudoku-app)
 - [Clicker App](https://codesandbox.io/s/github/wblachut/clicker-app-uk) simple copy of this [cookie clicker](http://orteil.dashnet.org/cookieclicker/).
@@ -55,7 +56,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" />
 <br>
 <br>
 
